@@ -8,15 +8,15 @@ STUDENT_NAMES = [
 ]
 
 def first_student_by_index
-   Write a solution that returns the first student in the array student_names#
+  puts room.first
 end
 
 def fourth_student_by_index
-  # Write a solution that returns the first student in the array student_names
+  puts room[3]
 end
 
 def last_student_by_index
-  # Write a solution that returns the first student in the array student_names
+  puts
 end
 
 def first_student_by_method
